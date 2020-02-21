@@ -22,7 +22,6 @@ body {
 
 a {
     text-decoration: none;
-    
 }
 
 a:hover {
@@ -182,57 +181,69 @@ a:hover {
 .footer {
     background-color: #242424;
     color: #dbdbdb;
-    padding: 32px 15%; }
-    .footer__title {
-      font-weight: 600;
-      font-size: 18px;
-      margin-bottom: 24px; }
-    .footer__list__item {
-      line-height: 28px;
-      list-style-type: none; }
-      .footer__list__item__link {
-        text-decoration: none;
-        color: #ffffff;
-        cursor: pointer; }
-      .footer__list__item__tag {
-        background-color: #2e2e2e;
-        border-radius: 4px;
-        padding: 2px 8px;
-        font-size: 13px;
-        margin-left: 4px;
-        color: #b5b5b5; }
-    .footer__separator {
-      display: inline-block;
-      height: 1px;
-      width: 100%;
-      background-color: #474747;
-      margin: 24px 0; }
-    .footer__logo {
-      margin-top: 26px;
-      font-family: 'Righteous', cursive;
-      font-size: 24px;
-      color: #858585;
-      float: right;
-      font-weight: 300; }
-    .footer__about-nw {
-      margin-top: -20px;
-      margin-bottom: 32px;
-      color: #858585; }
-    .footer__fb {
-        margin-top: 32px;
-      margin-left: 210px;
-      color: #858585;
-    }
-    .footer__insta {
-        margin-top: -30px;
-      margin-left: 250px;
-      color: #858585;
-    }
+    padding: 32px 15%; 
+}
 
+.footer__title {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 24px; 
+}
+/*
+.footer__list__item {
+    line-height: 28px;
+    list-style-type: none; 
+}
+
+.footer__list__item__link {
+    text-decoration: none;
+    color: #ffffff;
+    cursor: pointer; 
+}
+.footer__list__item__tag {
+    background-color: #2e2e2e;
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-size: 13px;
+    margin-left: 4px;
+    color: #b5b5b5; 
+} */
+.footer__separator {
+    display: inline-block;
+    height: 1px;
+    width: 100%;
+    background-color: #474747;
+    margin: 24px 0; 
+}
+.footer__logo {
+    margin-top: 26px;
+    font-family: 'Righteous', cursive;
+    font-size: 24px;
+    color: #858585;
+    float: right;
+    font-weight: 300; 
+}
+.footer__about-nw {
+    margin-top: -20px;
+    margin-bottom: 32px;
+    color: #858585; 
+}
+.footer__fb {
+    margin-top: 32px;
+    margin-left: 210px;
+    color: #858585;
+}
+.footer__insta {
+    margin-top: -30px;
+    margin-left: 250px;
+    color: #858585;
+}
+
+/*
 .table {
     font-family: cursive;
 }
 
 .tbody {
     background-color: #bbbbbb;
-}
+} */

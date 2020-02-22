@@ -238,7 +238,12 @@ a:hover {
     margin-left: 250px;
     color: #858585;
 }
-
+.footer__me {
+    margin-top: -20px;
+    margin-bottom: 32px;
+    color: #858585; 
+    float: center;
+}
 /*
 .table {
     font-family: cursive;
